@@ -1,6 +1,6 @@
 /* Homepage-specific styles */
 .hero {
-    background: url('/storage/emulated/0/Web projects/Neodynix university/images/background.jpeg') no-repeat center center/cover;
+    background: url('Izzonix.github.io/university-template/images/background.jpeg') no-repeat center center/cover;
     height: 80vh;
     display: flex;
     align-items: center;
